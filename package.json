@@ -1,0 +1,22 @@
+{
+  "name": "mutation-observer",
+  "version": "1.0.0",
+  "description": "Javascript mutation observer.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dho1115/mutationObserver.git"
+  },
+  "author": "David.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dho1115/mutationObserver/issues"
+  },
+  "homepage": "https://github.com/dho1115/mutationObserver#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
